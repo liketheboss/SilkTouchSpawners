@@ -1,0 +1,12 @@
+name: SilkTouchSpawners
+version: ${project.version}
+main: io.github.silktouchspawners.Core
+api-version: 1.13
+authors: [LikeTheBossOne]
+description: Silk touch on mob spawners gives you that spawner
+
+commands:
+  ChangeSpawner:
+    description: Changes spawner type
+    usage: "Usage: /<command> <entity-type>"
+    permission: changespawner.use
