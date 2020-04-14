@@ -1,4 +1,4 @@
-package io.github.silktouchspawners.listerners;
+package io.github.silktouchspawners.listeners;
 
 import io.github.silktouchspawners.Core;
 import io.github.silktouchspawners.events.SpawnerBreakEvent;
@@ -6,19 +6,10 @@ import io.github.silktouchspawners.events.SpawnerPlaceEvent;
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
 import org.bukkit.block.CreatureSpawner;
-import org.bukkit.enchantments.Enchantment;
-import org.bukkit.entity.EntityType;
-import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
-import org.bukkit.event.block.BlockDropItemEvent;
-import org.bukkit.event.entity.ItemSpawnEvent;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.BlockStateMeta;
-import org.bukkit.inventory.meta.ItemMeta;
-import org.bukkit.scheduler.BukkitRunnable;
-
-import java.util.Arrays;
 
 public class SilkListeners implements Listener {
 

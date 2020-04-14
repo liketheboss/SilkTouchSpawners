@@ -1,9 +1,9 @@
 package io.github.silktouchspawners;
 
 import io.github.silktouchspawners.commands.ChangeSpawner;
-import io.github.silktouchspawners.listerners.BlockBreakListener;
-import io.github.silktouchspawners.listerners.BlockPlaceListener;
-import io.github.silktouchspawners.listerners.SilkListeners;
+import io.github.silktouchspawners.listeners.BlockBreakListener;
+import io.github.silktouchspawners.listeners.BlockPlaceListener;
+import io.github.silktouchspawners.listeners.SilkListeners;
 import io.github.silktouchspawners.tabcompleters.ChangeSpawnerTab;
 import org.bukkit.plugin.java.JavaPlugin;
 

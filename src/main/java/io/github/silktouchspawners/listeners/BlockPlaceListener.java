@@ -1,11 +1,9 @@
-package io.github.silktouchspawners.listerners;
+package io.github.silktouchspawners.listeners;
 
 import io.github.silktouchspawners.Core;
-import io.github.silktouchspawners.events.SpawnerBreakEvent;
 import io.github.silktouchspawners.events.SpawnerPlaceEvent;
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
-import org.bukkit.enchantments.Enchantment;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.block.BlockPlaceEvent;

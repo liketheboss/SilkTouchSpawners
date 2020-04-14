@@ -1,4 +1,4 @@
-package io.github.silktouchspawners.listerners;
+package io.github.silktouchspawners.listeners;
 
 import io.github.silktouchspawners.Core;
 import io.github.silktouchspawners.events.SpawnerBreakEvent;
